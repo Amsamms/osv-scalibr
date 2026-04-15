@@ -1,0 +1,57 @@
+{
+  "entries": {
+    "brew": {
+      "git": {
+        "version": "2.44.0",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {}
+        }
+      },
+      "node": {
+        "version": "21.7.1",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {}
+        }
+      },
+      "openssl@3": {
+        "version": "3.3.0",
+        "bottle": {}
+      }
+    },
+    "cask": {
+      "firefox": {
+        "version": "124.0.1"
+      },
+      "visual-studio-code": {
+        "version": "1.87.2"
+      }
+    },
+    "tap": {
+      "homebrew/core": {
+        "revision": "abc123def456"
+      },
+      "homebrew/bundle": {
+        "revision": "789ghi012jkl"
+      }
+    },
+    "mas": {
+      "Xcode": {
+        "version": "15.3",
+        "id": 497799835
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "sonoma": {
+        "HOMEBREW_VERSION": "4.3.17",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "macOS": "14.5"
+      }
+    }
+  }
+}

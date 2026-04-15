@@ -50,6 +50,7 @@ See the docs on [how to add a new Extractor](/docs/new_extractor.md).
 | Spack             |                                | `os/spack`                                   |
 | Flatpak           |                                | `os/flatpak`                                 |
 | Homebrew          | OS X                           | `os/homebrew`                                |
+| Homebrew Bundler  | Brewfile.lock.json             | `os/brewfilelock`                            |
 | MacPorts          | OS X                           | `os/macports`                                |
 | OS X Applications | OS X                           | `os/macapps`                                 |
 | Chocolatey        | Windows software               | `os/chocolatey`                              |

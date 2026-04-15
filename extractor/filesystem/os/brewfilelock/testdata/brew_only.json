@@ -1,0 +1,11 @@
+{
+  "entries": {
+    "brew": {
+      "curl": {
+        "version": "8.7.1",
+        "bottle": {}
+      }
+    }
+  },
+  "system": {}
+}
